@@ -4,6 +4,7 @@ void main()
 {
 int n,n1,max;
 printf("Enter the  numbers for finding LCM",n,n1);
+// taking the input
 scanf("%d%d",&n,&n1);
 max=(n>n1)?n:n1;
 while(1)
